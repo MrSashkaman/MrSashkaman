@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr Fedorov
-- 👀 I’m interested in job offers as intern/junior data scientist 
-- 🌱 I’m currently learning deep learning algorithms and work in startup company Ranks and train models to find best stocks around the world
-
+- I have 3+ years experience in machine learning
+- 👀 I’m interested in job offers as ML Engineer/junior data scientist 
+- Sometimes i work on my pet projects
 - 📫 How to reach me email: aleksandr_fedorov_98@mail.ru
 
